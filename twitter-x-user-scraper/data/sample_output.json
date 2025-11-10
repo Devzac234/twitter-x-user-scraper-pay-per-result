@@ -1,0 +1,29 @@
+[
+  {
+    "followerOf": "elonmusk",
+    "type": "user",
+    "userName": "ThisIsKyleR",
+    "url": "https://x.com/ThisIsKyleR",
+    "twitterUrl": "https://twitter.com/ThisIsKyleR",
+    "id": "1467931973616386052",
+    "name": "Kyle Rittenhouse",
+    "isVerified": true,
+    "isBlueVerified": true,
+    "verifiedType": "business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1726405741798408192/jTrLlE51_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1467931973616386052/1700442268",
+    "description": "Order my new book ACQUITTED today!👇",
+    "location": "USA",
+    "followers": 1147899,
+    "following": 561,
+    "protected": false,
+    "createdAt": "Mon Dec 06 19:00:41 +0000 2021",
+    "professional": {
+      "category": "business",
+      "isBusiness": true,
+      "isCreator": false
+    },
+    "favouritesCount": 1450,
+    "statusesCount": 2104
+  }
+]
