@@ -1,0 +1,15 @@
+{
+  "mode": "followers",
+  "max_items": 25,
+  "include_unavailable_users": true,
+  "output": {
+    "directory": "data",
+    "filename": "output_users.json"
+  },
+  "network": {
+    "timeout": 10,
+    "max_retries": 3,
+    "enable_live": false,
+    "user_agent": "TwitterUserScraper/1.0 (+https://bitbash.dev)"
+  }
+}
